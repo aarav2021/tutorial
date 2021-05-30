@@ -1,0 +1,23 @@
+{
+    "name": "Tutorial",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "stringer": "github:aarav2021/stringer#master",
+        "data-streamer": "github:microsoft/pxt-data-streamer#v0.1.0"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
